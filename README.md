@@ -1,6 +1,8 @@
 # Annotation and Machine Identification of Metaphors in Croatian Newspaper Articles
 
-This repository contains dataset used in paper *Annotation and Machine Identification of Metaphors in Croatian Newspaper Articles*, submitted to CECIIS 2023 conference.
+This repository contains dataset annotated and preprocesed as part of the paper *Annotation and Machine Identification of Metaphors in Croatian Newspaper Articles*, submitted to CECIIS 2023 conference.
+
+To find put more of the annotating process and data preporocesing, please refer to mentioned paper.
 
 If you are using this dataset in your research, please cite:
 
