@@ -6,5 +6,5 @@ To find out more about annotating method and data preprocessing, please refer to
 
 If you are using this dataset in your research, please cite:
 
-Ptiček, M., Dobša, J., Annotation and Machine Identification of Metaphors in Croatian Newspaper Articles, Proceedings of 34th International Scientific Conference Central European Conference on Information and Intelligent Systems, 2023, Dubrovnik, Croatia
+Ptiček, M., Dobša, J., Annotation and Machine Identification of Metaphors in Croatian Newspaper Articles, *Proceedings of 34th International Scientific Conference Central European Conference on Information and Intelligent Systems*, 2023, Dubrovnik, Croatia
 
